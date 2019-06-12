@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487ee35a-ae39-4e7c-8272-230be50681c1" name="Default Changelist" comment="13-06-2019: Initial commit prior to pushing all source codes">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mypython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/germarrr/nbactions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/germarrr/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/germarrr/src/main/java/org/Services.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/germarrr/src/main/js/launcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/germarrr/src/main/js/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/germarrr/src/test/java/org/ServicesTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="487ee35a-ae39-4e7c-8272-230be50681c1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,10 +158,19 @@
       <option name="presentableId" value="Default" />
       <updated>1560356621439</updated>
     </task>
+    <task id="LOCAL-00001" summary="13-06-2019: Initial commit prior to pushing all source codes">
+      <created>1560357459104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560357459104</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -193,6 +190,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="13-06-2019: Initial commit prior to pushing all source codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="13-06-2019: Initial commit prior to pushing all source codes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/germarrr/src/test/java/org/ServicesTest.java">
