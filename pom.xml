@@ -34,7 +34,8 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.20</version>
-                <configuration>
+		<configuration>
+		    <forkMode>never</forkMode>
                     <jvm>${graalvm}/bin/node</jvm>
                     <argLine>--polyglot --use-classpath-env-var --jvm.${debug.arg} ${basedir}/src/main/js/launcher.js</argLine>
                     <useSystemClassLoader>false</useSystemClassLoader>
